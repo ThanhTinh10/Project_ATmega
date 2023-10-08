@@ -20,14 +20,14 @@ lcd.print("Do am la:");
 lcd.setCursor(10,0);
 lcd.print(doamdat); 
 
-if(doamdat > 800)
+if(doamdat < 800)
 {
-digitalWrite(role,HIGH); 
-delay(2000);
+digitalWrite(role,LOW); 
+delay(1000);
 }
 else
 {
-digitalWrite(role,LOW);
+digitalWrite(role,HIGH);
 }
-delay(1000);
+delay(2000);
 }
