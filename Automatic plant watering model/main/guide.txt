@@ -1,0 +1,5 @@
+Mạch Arduino 
+1 module LCD 16x02 + I2C
+1 Cảm biến độ ẩm dất.
+1 Relay 5Vdc.
+1 Bơm 12Vdc

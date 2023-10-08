@@ -1,0 +1,5 @@
+1 module I2C cho LCD
+1 module cảm biến quang trở
+1 relay 5Vdc
+1 bóng đèn AC 220V
+1 board arduino uno 
