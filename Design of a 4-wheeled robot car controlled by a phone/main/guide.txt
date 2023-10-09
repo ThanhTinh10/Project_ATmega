@@ -1,0 +1,10 @@
+1 board arduino 
+1 mobile phone
+1 L298N.
+1 Module bluetooth HC05 
+4 DC gear reducer motor V1 
+act: Design app inventor to control the car via bluetooth with functions forward, backward, turn right,....
+ 
+
+
+
